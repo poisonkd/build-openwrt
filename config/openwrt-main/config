@@ -7523,17 +7523,6 @@ CONFIG_PACKAGE_whereis=y
 未设置# CONFIG_PACKAGE_ykpers
 未设置# CONFIG_PACKAGE_yq
 未设置# CONFIG_PACKAGE_zyxel-reset
-CONFIG_PACKAGE_kmod-brcmutil=y
-CONFIG_PACKAGE_kmod-cfg80211=y
-CONFIG_PACKAGE_kmod-mac80211=y
-CONFIG_PACKAGE_kmod-nls-base=y
-CONFIG_PACKAGE_kmod-usb-core=y
-CONFIG_PACKAGE_kmod-usb-ehci=y
-CONFIG_PACKAGE_kmod-usb-net=y
-配置_包_kmod-usb-net-asix-ax88179=y
-CONFIG _ PACKAGE _ kmod-USB-xhci-HCD = y
-CONFIG_PACKAGE_kmod-usb2=y
-CONFIG_PACKAGE_kmod-usb3=y
 #实用程序结束
 
 #
